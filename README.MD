@@ -12,3 +12,7 @@ Modes include:
 ## Input:
 
 ![examples/example_input.png](examples/example_input.png)
+
+## Output:
+
+![examples/example_output.png](examples/example_output.png)
